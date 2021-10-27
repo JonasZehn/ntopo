@@ -64,4 +64,4 @@ will list problems related to solution spaces.
 Similarly, other commands are available with a `_space` suffix to train and evaluate models.
 
 ## License
-See the [LICENSE](LICENSE) file for license rights and limitations (TODO insert abbreviation).
+See the [LICENSE](LICENSE) file for license rights and limitations.
